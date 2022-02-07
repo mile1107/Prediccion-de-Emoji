@@ -1,0 +1,2 @@
+En este proyecto, se usó el vector Glove 6B 50D para construir una matriz de embedding de palabras disponibles en el vector Glove. Descarga el archivo 6B.50.50d.txt y extrae el archivo en el mismo directorio que el del código.
+Enlace de descarga-> [glove.6B.50D.txt](https://www.kaggle.com/watts2/glove6b50dtxt) 
